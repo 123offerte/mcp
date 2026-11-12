@@ -3,12 +3,35 @@
   "name": "it.123offerte/mcp",
   "title": "123offerte.it: Italian offers catalogue",
   "description": "Italian mobile, internet, bank account, card, loan and energy offers, with conditions and links.",
-  "version": "2026.11.12",
+  "version": "2026.11.12-1",
   "websiteUrl": "https://123offerte.it/en/data/ai",
   "repository": {
     "url": "https://github.com/123offerte/mcp",
     "source": "github"
   },
+  "icons": [
+    {
+      "src": "https://123offerte.it/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    },
+    {
+      "src": "https://123offerte.it/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://123offerte.it/icon-192.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "192x192"
+      ]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
